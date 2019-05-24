@@ -1,1 +1,4 @@
-Snippets
+venv
+__pycache__
+__init__
+test.sqlite
