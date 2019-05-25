@@ -1,0 +1,30 @@
+open terminal and write 
+
+npm install -g create-react-app
+
+create-react-app <name>  (don't need  < and >, you just put a name)
+
+npm start  - to run the server
+
+
+------------------------------------------------------------------------------------------------
+
+NPX version
+
+npx create-react-app <name>
+
+cd <name>
+
+yarn start  
+
+// Bundles the app into static files for production
+
+yarn test
+
+// Starts the test runner
+
+yarn eject
+
+// Removes this tool and copies build dependecies, configuration files and scripts into the app directory. If you do this, you can't go back!!!!
+
+------------------------------------------------------------------------------------------------
